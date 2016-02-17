@@ -1,0 +1,12 @@
+{
+    "name": "webdev/pric3ste",
+    "authors": [
+        {
+            "name": "Steven Prichard",
+            "email": "spprichard20@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^1.24"
+    }
+}
